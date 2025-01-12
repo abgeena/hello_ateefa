@@ -1,4 +1,4 @@
-# hello_ateefa
+# Blockchain
 import CryptoJS from 'crypto-js';
 
 import chain from './chain';
